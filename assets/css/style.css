@@ -1,1 +1,47 @@
-/* This is style css */
+* {margin: 0;padding: 0;}
+
+body{font-family: 'Montserrat', sans-serif;}
+
+#page {
+    min-height: 200px;
+    width: 60%;
+    min-width: 600px;
+    background: #faf3f5;
+    margin: 50px auto;
+    padding: 30px;
+    color: #d64161;
+    border-color: #000;
+    border-style: double;
+}
+
+
+
+.photo {
+    width: 15%;
+    min-width: 130px;
+    float: left;
+    border-color: #d64161;
+    margin-right: 20px;
+}
+
+.contact-info-box {
+    width: 70.9%;
+    display: inline-block;
+}
+
+.name {
+    margin-bottom: -5px;
+}
+.job-title {
+    display: inline-block;
+}
+
+.contact-details {
+    background: #f0859c;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 15px;
+}
