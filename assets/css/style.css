@@ -45,3 +45,70 @@ body{font-family: 'Montserrat', sans-serif;}
     padding: 5px;
     font-size: 15px;
 }
+.container {
+    padding-left: 150px;
+  }
+  .projects {
+    padding-left: 150px;
+    color: #000;
+    line-height: 200%;
+  }
+
+  
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+    color: #000;
+  }
+
+.gh{
+    align-items: center;
+    padding-right: 0;
+}
+
+#objective {
+    
+}
+
+#objective h3 {
+    border: 1px solid #d3d3d3;
+    border-color: #960726;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#objective p {
+    padding: 0 5px;
+    line-height: 25px;
+    font-size: 14px;
+    color: #000;
+}
+
+#education h3 {
+    border: 1px solid #d3d3d3;
+    border-color: #960726;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#education table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#education table tr.school-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#education table tr.school-2 td:first-child {
+    padding-bottom: 25px;
+}
+
+
